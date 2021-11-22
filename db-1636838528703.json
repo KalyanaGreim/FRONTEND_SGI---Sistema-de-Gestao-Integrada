@@ -1,0 +1,16 @@
+{
+  "produtos": [],
+  "empresas": [],
+  "fornecedores": [
+    "Del valle",
+    "Amazon",
+    "Dell"
+  ],
+  "categorias": [
+    "Carnes",
+    "Ovos",
+    "Higiene",
+    "Cereais",
+    "Massas"
+  ]
+}

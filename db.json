@@ -1,0 +1,46 @@
+{
+  "produtos": [
+    {
+      "imageUrl": "https://a-static.mlcdn.com.br/618x463/vinho-campo-largo-tinto-suave-750ml/saturno/b723fa42fac811eba6ed4201ac185013/3445062ee34a4f17a4e9584c5dee68b7.jpg",
+      "productName": "Vinho Campo Largo",
+      "cost": "12,00",
+      "description": "Vinho tipo suave",
+      "provider": "Dell",
+      "group": "Massas",
+      "id": 1
+    }
+  ],
+  "empresas": [
+       {
+      "enterpriseName": "Vinhos Campo Largo LTDA",
+      "fantasyName": "Vinhos Campo Largo",
+      "CNPJ": "12345678970",
+      "CEP": "83601-150",
+      "email": "vinhoscl@gmail.com",
+      "address": "Av. Ayrton Senna Da Silva",
+      "number": "2760",
+      "district": "Vila Otto",
+      "city": "Campo Largo",
+      "complement": "",
+      "coordinates": [
+        "-25.4672896",
+        "-49.5550464"
+      ],
+      "id": 6
+    }
+  ],
+  "fornecedores": [
+    "",
+    "Del valle",
+    "Amazon",
+    "Dell"
+  ],
+  "grupos": [
+    "",
+    "Carnes",
+    "Ovos",
+    "Higiene",
+    "Cereais",
+    "Massas"
+  ]
+}

@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+    padding: 20px;
+}
+.title {
+    color: rgb(145, 186, 196);
+    text-align: center;
+}
+
+
+input{
+    margin: 5px;
+    border-radius: 8px;
+}
+
+
+#btnCalcel {
+    background-color: rgb(243, 1, 1);
+    border:rgb(243, 1, 1); ;
+    
+}
+select {
+    margin: 15px;
+}
