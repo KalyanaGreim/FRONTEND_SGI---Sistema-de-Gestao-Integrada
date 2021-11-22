@@ -1,3 +1,4 @@
+![sgi_map](https://user-images.githubusercontent.com/89491522/142787613-b11d568e-c8a6-46c6-bda1-9caa10009693.png)
 Plano do projeto:
 
 1. Introdução
